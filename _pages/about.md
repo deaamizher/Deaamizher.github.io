@@ -7,7 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## Welcome
+
+I’m **Deaa Mizher. Ph.D**, a geotechnical engineer and researcher specialising in geotechnical seismic isolation, soil–rubber mixtures, and sustainable construction materials.
+
+My work bridges academia and industry, including:
+- Field investigations and core logging
+- Laboratory testing (triaxial, permeability, consolidation, PSD, CBR)
+- Research into static, cyclic, and post-cyclic behaviour of soil–rubber–bitumen mixtures
+---
+
+## Research Interests
+- Soil–rubber and soil–bitumen mixtures
+- Seismic isolation and soil–foundation–structure interaction
+- Sustainable materials in geotechnical engineering
+- Static, cyclic, and post-cyclic soil behaviour
+
+---
+
+## Professional Experience
+- **Geotechnical Engineer – Douglas Partners, Townsville, QLD**  
+  Field investigations, borehole logging, laboratory testing, and geotechnical reporting.
+- **Geotechnical Laboratory Engineer** – multiple projects across Australia.
+- **Researcher** – experimental testing on soil–rubber–bitumen mixtures for sustainable ground improvement.
+
+## Journal Articles
+1. **Mizher, D., Tsang, H.-H., & Disfani, M.M.** (2024). *Effects of bitumen on shear strength parameters of soil–rubber mixtures.* Case Studies in Construction Materials, Elsevier. [DOI LINK]
+
+- **Engineering projects** and site investigations
+- **Teaching and training** contributions
+- Contact information
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
