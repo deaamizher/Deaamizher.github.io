@@ -7,29 +7,29 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-AU"
 site_theme               : "default"
 title                    : "Deaa Mizher"
-title_separator          : "-"
-name                     : &name "Deaa Mizher"
-description              : &description ""Geotechnical Engineer & Researcher – specialising in soil mechanics, seismic isolation, and sustainable materials"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+title_separator          : "·"
+name                     : &name "Dr Deaa Mizher"
+description              : &description "Geotechnical engineer & researcher specialising in soil mechanics, seismic isolation, and sustainable materials."
+url                      : "https://deaamizher.github.io"
+baseurl                  : ""                       # keep empty
+repository               : "deaamizher/deaamizher.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile.png"                 # upload an image named profile.png to /images
+  name             : "Dr Deaa Mizher"
+  pronouns         :
+  bio              : "Geotechnical engineer focused on seismic isolation, soil–rubber/bitumen mixtures, and sustainable ground improvement."
+  location         : "Townsville, QLD, Australia"
+  employer         : "Douglas Partners"
+  uri              :
+  email            : ""  
 
   # Academic websites
   academia         : # URL
